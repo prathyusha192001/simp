@@ -18,7 +18,7 @@ public class Alerts {
 		driver.findElement(By.name("Submit")).click();
 		driver.findElement(By.linkText("Logout")).click();
 		driver.close();
-		
+		//Hi i have commented in alerts
 	}
 
 }
